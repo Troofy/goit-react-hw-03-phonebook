@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Troofy/goit-react-hw-03-phonebook/static/css/main.3198e05c.css",
+    "main.js": "/Troofy/goit-react-hw-03-phonebook/static/js/main.15956990.js",
+    "index.html": "/Troofy/goit-react-hw-03-phonebook/index.html",
+    "main.3198e05c.css.map": "/Troofy/goit-react-hw-03-phonebook/static/css/main.3198e05c.css.map",
+    "main.15956990.js.map": "/Troofy/goit-react-hw-03-phonebook/static/js/main.15956990.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3198e05c.css",
+    "static/js/main.15956990.js"
+  ]
+}
